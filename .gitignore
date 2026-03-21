@@ -5,3 +5,4 @@
 .csv
 itunes_data
 *.DS_Store
+.aider*
